@@ -10,4 +10,5 @@ def query_items():
     return items
 
 def connect():
+    # import config to set port and host...
     return True
